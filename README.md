@@ -2,3 +2,4 @@
 Hello kub
 nice2meetyou
 ง่วงมากกกกกกกก
+sawasdee
