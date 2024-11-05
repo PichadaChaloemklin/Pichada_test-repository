@@ -1,2 +1,2 @@
 # Pichada_test-repository
-mint Conflict
+mint conflict
